@@ -1,2 +1,2 @@
 # hello-world
-first trial haha
+first trial
